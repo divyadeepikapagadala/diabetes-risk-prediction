@@ -13,8 +13,10 @@ https://www.kaggle.com/datasets/mragpavank/diabetes
 Download `diabetes.csv` and put it in the same folder as the scripts.
 
 ## How to run
+```
 pip install pandas scikit-learn matplotlib
 python diabetes_project_cv.py
+```
 
 ## Files
 - `diabetes_project.py`: cleaning, charts, three models, single-split results
